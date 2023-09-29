@@ -102,7 +102,7 @@ In the exciting world of aerospace engineering, we've taken on a thrilling proje
     from the launch site.
 
     To ensure seamless data monitoring and control, our ground station boasts a user-friendly Graphical User Interface
-    (GUI) developed in Python. 
+    (GUI) developed in Python using the customtkinter library (https://customtkinter.tomschimansky.com/). 
     This GUI provides real-time data visualization, telemetry monitoring, and the ability to send commands to the 
     rocket as needed. With this ground station, we can closely track the rocket's flight path, receive vital data, 
     and make adjustments in real-time, ensuring a successful mission from launch to recovery.
