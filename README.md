@@ -84,7 +84,7 @@ In the exciting world of aerospace engineering, we've taken on a thrilling proje
     Thanks to the efficient DHL delivery option, they arrived at our doorstep within a week.
     Not only were the PCBs well-packaged, but the quality also exceeded our expectations, 
     ensuring that our avionics system operates flawlessly in our rocket project.
-    Add https://jlcpcb.com/HAR , and add Follow JLC FB & PM us to get coupon: https://www.facebook.com/jlcpcb
+    Go to https://jlcpcb.com/HAR , and Follow them at JLC FB & PM to get coupon: https://www.facebook.com/jlcpcb.
 
 # The Ground Station: Staying Connected with Our Rocket
 
