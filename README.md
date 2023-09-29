@@ -1,4 +1,4 @@
-# -Rocket-Avionics-PCB-for-Hybrid-Rocketry
+# -Rocket-Avionics-for-Hybrid-Rocketry
 In the exciting world of aerospace engineering, we've taken on a thrilling project at our engineering school ESTACA: building a hybrid rocket with roll control. At the heart of this rocket, there's a critical piece of technology called the avionics system. In this article, we'll break down the avionics system for you, explaining its key components, design choices, and how it helps make our rocket mission a reality. The rockets name is the Estaca Space Launcher (ESL), It is the most ambitious rocketry project from our aerospace student association Estaca Space Odyssey (ESO), it will seek to reach 30Km of altitude using a hybrid (solid and liquid) student made rocket engine. The Rocket participating in the International C'space event, it will need to carry an experiment, we choose to carry a cold gaz thruster roll stabilizer.
 
 
